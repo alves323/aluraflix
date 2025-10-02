@@ -3,6 +3,7 @@ body{
     background: black;
 }
 
+
 header {
     border-bottom: solid 2px rgb(21, 89,117);
     padding: 20px;
@@ -20,5 +21,5 @@ section{
 
 
 .chamada-texto {
-    margin-right: 20px;
+    margin-right: 5%;
 }
